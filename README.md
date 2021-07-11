@@ -7,13 +7,13 @@ have been altered. Our objective is first to evaluate the extent of this dishone
 ## Results
 
 #### > Impact on district summary
-- Avg math score dropped by 0.1 point
-- average percentage passing math fell by 0.2% . 
-- Reading scores and average percentage passing reading remain unchanged. 
+- Average math score dropped by 0.1 point
+- Average percentage passing math fell by 0.2% . 
+- Reading scores and passing reading average percentage remain unaffected. 
 - District summary is not significantly affected. 
 
 #### > Impact on school summary 
-
+- 
 
 #### > Impact on School Performance
 Replacing math and reading scores for ninth graders at Thomas High School pushes math, reading and overall passing percentages upwards by around 30% in each category and lifts Thomas High School to second best in performance. 

@@ -1,8 +1,8 @@
 # School_District_Analysis
 
 ## Overview 
-Following evidence of academic dishonesty we have to take a closer look at our analysis. In particular, Thomas High School ninth grade scores for reading and math
-have been altered. Our objective is first to evaluate the extent of this dishonesty and to better understand it. This update analysis replaces the scores in question and evaluates how the changes we implement affect the overall analysis. 
+
+Following evidence of academic dishonesty we have to take a closer look at our school district analysis. In particular, Thomas High School ninth grade scores for reading and math have been altered. Our objective is first to evaluate the extent of this dishonesty and to better understand how it affected the specific school and the district in general. This update analysis replaces the scores in question and evaluates how the changes we implement affect the overall analysis. 
 
 ## Results
 
@@ -21,7 +21,9 @@ have been altered. Our objective is first to evaluate the extent of this dishone
 
 ### > Impact on School Performance
 By replacing math and reading scores for ninth graders at Thomas High School math, reading and overall passing percentages go down by around 30% in each category and sinks Thomas High School to eighth best in performance. 
+
 ![](Resources/images/school_performance.png)
 
 ### Summary 
-After replacing scores for ninth grade in Thomas High School, we observe the meteoric rise of the school to the second place in performance and a proportionate rise in passing percentages of the school. At the same time the district summary shows superficial changes in passing percentages for both math and reading. In terms of budget, the school looked like it was spending enough money while returning average passing results, while now it looks like with the same budget the same school achieves remarkable passing results. All other key metrics like scores by school type, school size 
+
+After replacing scores for ninth grade in Thomas High School, we observe the meteoric drop of the school from second place to eighth in performance and a proportionate drop in passing percentages for the school. At the same time the district summary shows superficial changes in passing percentages for both math and reading. In terms of the school's budget , we are now seeing a moderate budget followed in reality by just above average results as opposed to the initial analysis that showed a moderate budget and remarkable results. All other key metrics like scores by school type, school size are unchanged. It looks like all academic dishonesty started and stopped at Thomas High School and was probably aimed in improving their image without,fortunately, altering the bigger picture. 

@@ -17,9 +17,11 @@ have been altered. Our objective is first to evaluate the extent of this dishone
 
 
 ### > Impact on school summary 
-- 
+- School summary is affected by the drop of Thomas High School in school performance. 
 
 ### > Impact on School Performance
-Replacing math and reading scores for ninth graders at Thomas High School pushes math, reading and overall passing percentages upwards by around 30% in each category and lifts Thomas High School to second best in performance. 
+By replacing math and reading scores for ninth graders at Thomas High School math, reading and overall passing percentages go down by around 30% in each category and sinks Thomas High School to eighth best in performance. 
 ![](Resources/images/school_performance.png)
 
+### Summary 
+After replacing scores for ninth grade in Thomas High School, we observe the meteoric rise of the school to the second place in performance and a proportionate rise in passing percentages of the school. At the same time the district summary shows superficial changes in passing percentages for both math and reading. In terms of budget, the school looked like it was spending enough money while returning average passing results, while now it looks like with the same budget the same school achieves remarkable passing results. All other key metrics like scores by school type, school size 
